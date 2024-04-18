@@ -1,7 +1,6 @@
 local wezterm = require("wezterm")
 
 return {
-	color_scheme = "Tokyo Night Storm",
 	hide_tab_bar_if_only_one_tab = true,
 	window_decorations = "RESIZE",
 	window_padding = {
